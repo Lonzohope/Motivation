@@ -5,12 +5,16 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { MotivationFormComponent } from './motivation-form/motivation-form.component';
 import { QuotesComponent } from './quotes/quotes.component';
+import { MotivationComponent } from './motivation/motivation.component';
+import { MotivationDetailsComponent } from './motivation-details/motivation-details.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     MotivationFormComponent,
-    QuotesComponent
+    QuotesComponent,
+    MotivationComponent,
+    MotivationDetailsComponent
   ],
   imports: [
     BrowserModule,

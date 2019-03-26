@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./motivation-form.component.css']
 })
 export class MotivationFormComponent implements OnInit {
-
+  
   constructor() { }
 
   ngOnInit() {
