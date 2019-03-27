@@ -7,11 +7,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This is a site where you can share quotes and delete them if you like.
 
-##Author
+## Author
 
 Hope Mutheu
 
-##Set up instructions
+## Set up instructions
+
+
 `git clone`to access my project.
 `npm install -g @angular/cli`to install angular.
 `ng serve`
